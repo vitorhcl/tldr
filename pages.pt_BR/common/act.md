@@ -3,7 +3,7 @@
 > Executa GitHub Actions localmente utilizando Docker.
 > Mais informações: <https://github.com/nektos/act>.
 
-- Lista acoes disponiveis:
+- Lista ações disponiveis:
 
 `act -l`
 
@@ -11,15 +11,15 @@
 
 `act`
 
-- Executa evento especifico:
+- Executa evento específico:
 
 `act {{tipo_de_evento}}`
 
-- Executa acao especifica:
+- Executa ação específica:
 
 `act -a {{acao_id}}`
 
-- Nao executa realmente as acoes (i.e. um dry run):
+- Não executa realmente as acoes (i.e. um dry run):
 
 `act -n`
 
