@@ -8,7 +8,7 @@
 
 `ect {{path/to/file.png}}`
 
-- Compress a file with specified compression level and multithreading (1=Fastest (Worst), 9=Slowest (Best), default is 3):
+- Compress a file with specified compression level and multithreading (1=Fastest (worst), 9=Slowest (best), default is 3):
 
 `ect -{{9}} --mt-deflate {{path/to/file.zip}}`
 

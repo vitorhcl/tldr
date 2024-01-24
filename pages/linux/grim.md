@@ -1,6 +1,6 @@
 # grim
 
-> Grab images (Screenshots) from a Wayland compositor.
+> Grab images (screenshots) from a Wayland compositor.
 > More information: <https://sr.ht/~emersion/grim>.
 
 - Screenshot all outputs:

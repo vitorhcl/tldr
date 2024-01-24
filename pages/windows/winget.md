@@ -7,7 +7,7 @@
 
 `winget install {{package}}`
 
-- Remove a package (Note: `remove` can also be used instead of `uninstall`):
+- Remove a package (note: `remove` can also be used instead of `uninstall`):
 
 `winget uninstall {{package}}`
 

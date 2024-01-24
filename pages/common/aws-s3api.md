@@ -23,7 +23,7 @@
 
 `aws s3api put-object --bucket {{bucket_name}} --key {{object_key}} --body {{path/to/file}}`
 
-- Download object from a bucket (The output file is always the last argument):
+- Download object from a bucket (the output file is always the last argument):
 
 `aws s3api get-object --bucket {{bucket_name}} --key {{object_key}} {{path/to/output_file}}`
 

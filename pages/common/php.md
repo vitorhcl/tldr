@@ -15,7 +15,7 @@
 
 `php -a`
 
-- Run PHP code (Notes: Don't use <? ?> tags; escape double quotes with backslash):
+- Run PHP code (notes: Don't use <? ?> tags; escape double quotes with backslash):
 
 `php -r "{{code}}"`
 

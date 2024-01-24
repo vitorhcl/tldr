@@ -12,7 +12,7 @@
 
 `as {{file.s}} -o {{out.o}}`
 
-- Generate output faster by skipping whitespace and comment preprocessing. (Should only be used for trusted compilers):
+- Generate output faster by skipping whitespace and comment preprocessing (should only be used for trusted compilers):
 
 `as -f {{file.s}}`
 

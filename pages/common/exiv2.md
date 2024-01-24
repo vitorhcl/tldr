@@ -7,7 +7,7 @@
 
 `exiv2 {{path/to/file}}`
 
-- Print all metadata (Exif, IPTC, XMP) with interpreted values:
+- Print all metadata (EXIF, IPTC, XMP) with interpreted values:
 
 `exiv2 -P kt {{path/to/file}}`
 

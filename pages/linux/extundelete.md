@@ -8,11 +8,11 @@
 
 `sudo extundelete {{/dev/sdXN}} --restore-all`
 
-- Restore a file from a path relative to root (Do not start the path with `/`):
+- Restore a file from a path relative to root (do not start the path with `/`):
 
 `extundelete {{/dev/sdXN}} --restore-file {{path/to/file}}`
 
-- Restore a directory from a path relative to root (Do not start the path with `/`):
+- Restore a directory from a path relative to root (do not start the path with `/`):
 
 `extundelete {{/dev/sdXN}} --restore-directory {{path/to/directory}}`
 

@@ -16,7 +16,7 @@
 
 `mvn package -DskipTests`
 
-- Install the built package in local maven repository. (This will invoke the compile and package commands too):
+- Install the built package in local maven repository (this will invoke the compile and package commands too):
 
 `mvn install`
 

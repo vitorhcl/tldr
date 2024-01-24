@@ -21,7 +21,7 @@
 
 `quickget macos {{high-sierra|mojave|catalina|big-sur|monterey|ventura}}`
 
-- Show an ISO URL for an operating system (Note: it does not work for Windows):
+- Show an ISO URL for an operating system (note: it does not work for Windows):
 
 `quickget --show-iso-url fedora {{release}} {{edition}}`
 
@@ -29,6 +29,6 @@
 
 `quickget --test-iso-url nixos {{edition}} {{plasma5}}`
 
-- Open an operating system distribution's homepage in a browser (Note: it does not work for Windows):
+- Open an operating system distribution's homepage in a browser (note: it does not work for Windows):
 
 `quickget --open-distro-homepage {{os}}`

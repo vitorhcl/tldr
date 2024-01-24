@@ -3,7 +3,7 @@
 > A terminal music player written in Rust that uses vim-like key bindings.
 > More information: <https://github.com/tramhao/termusic>.
 
-- Open termusic to a specific directory. (It can be set permanently in `~/.config/termusic/config.toml`):
+- Open termusic to a specific directory (it can be set permanently in `~/.config/termusic/config.toml`):
 
 `termusic {path/to/directory}`
 

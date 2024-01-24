@@ -15,7 +15,7 @@
 
 `shutdown -r +{{5}} &`
 
-- Shutdown at 1:00 pm (Uses 24[h] clock):
+- Shutdown at 1:00 pm (uses 24[h] clock):
 
 `shutdown -h 13:00`
 

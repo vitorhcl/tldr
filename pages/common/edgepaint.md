@@ -8,7 +8,7 @@
 
 `edgepaint {{path/to/layout1.gv}} {{path/to/layout2.gv ...}} > {{path/to/output.gv}}`
 
-- Colorize edges using a color scheme. (See <https://graphviz.org/doc/info/colors.html#brewer>):
+- Colorize edges using a color scheme (see <https://graphviz.org/doc/info/colors.html#brewer>):
 
 `edgepaint -color-scheme={{accent7}} {{path/to/layout.gv}} > {{path/to/output.gv}}`
 

@@ -23,6 +23,6 @@
 
 `gzip -c -d {{file.ext}}.gz > {{uncompressed_file.ext}}`
 
-- Specify the compression level. 1=Fastest (Worst), 9=Slowest (Best), Default level is 6:
+- Specify the compression level. 1=Fastest (worst), 9=Slowest (best); default level is 6:
 
 `gzip -9 -c {{file.ext}} > {{compressed_file.ext.gz}}`

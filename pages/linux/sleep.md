@@ -7,7 +7,7 @@
 
 `sleep {{seconds}}`
 
-- Delay in [m]inutes. (Other units [d]ay, [h]our, [s]econd, [inf]inity can also be used):
+- Delay in [m]inutes (other units [d]ay, [h]our, [s]econd, [inf]inity can also be used):
 
 `sleep {{minutes}}m`
 

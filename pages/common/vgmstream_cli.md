@@ -3,7 +3,7 @@
 > Play a wide variety of audio formats used in video games and convert them into `wav`.
 > More information: <https://github.com/vgmstream/vgmstream/blob/master/doc/USAGE.md>.
 
-- Decode an `adc` file to `wav`. (Default output name is `input.wav`):
+- Decode an `adc` file to `wav` (default output name is `input.wav`):
 
 `vgmstream_cli {{path/to/input.adc}} -o {{path/to/output.wav}}`
 
@@ -19,7 +19,7 @@
 
 `vgmstream_cli {{path/to/input.adc}} -o {{path/to/output.wav}} -l {{3.0}} -f {{5.0}} -d {{3.0}}`
 
-- Convert multiple files to `bgm_(original name).wav` (Default `-o` pattern is `?f.wav`):
+- Convert multiple files to `bgm_(original name).wav` (default `-o` pattern is `?f.wav`):
 
 `vgmstream_cli -o {{path/to/bgm_?f.wav}} {{path/to/file1.adc}} {{path/to/file2.adc}}`
 

@@ -24,7 +24,7 @@
 
 `rustc -C target-cpu={{native}} {{path/to/main.rs}}`
 
-- Display the target list (Note: you have to add a target using `rustup` first to be able to compile for it):
+- Display the target list (note: you have to add a target using `rustup` first to be able to compile for it):
 
 `rustc --print target-list`
 

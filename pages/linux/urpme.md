@@ -8,7 +8,7 @@
 
 `sudo urpme {{package}}`
 
-- Uninstall orphan packages (Note: use it with caution as it might unintentionally remove important packages):
+- Uninstall orphan packages (note: use it with caution as it might unintentionally remove important packages):
 
 `sudo urpme --auto-orphans`
 

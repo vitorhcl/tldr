@@ -3,7 +3,7 @@
 > Convert images into EPS or PDF files.
 > More information: <https://manned.org/a2ping>.
 
-- Convert an image to PDF (Note: Specifying an output filename is optional):
+- Convert an image to PDF (note: Specifying an output filename is optional):
 
 `a2ping {{path/to/image.ext}} {{path/to/output.pdf}}`
 

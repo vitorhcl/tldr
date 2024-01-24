@@ -19,6 +19,6 @@
 
 `brotli -d {{path/to/compressed_file.br}} -o {{path/to/output_file}}`
 
-- Specify the compression level [1=Fastest (Worst), 11=Slowest (Best)]:
+- Specify the compression level [1=Fastest (worst), 11=Slowest (best)]:
 
 `brotli -q {{11}} {{path/to/file}} -o {{path/to/compressed_output_file.br}}`

@@ -3,7 +3,7 @@
 > Monitors all tasks running on the compute node, accepts tasks, launches tasks, and kills running tasks upon request.
 > More information: <https://slurm.schedmd.com/slurmd.html>.
 
-- Report node rebooted when daemon restarted (Used for testing purposes):
+- Report node rebooted when daemon restarted (used for testing purposes):
 
 `slurmd -b`
 

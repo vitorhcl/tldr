@@ -15,7 +15,7 @@
 
 `rgpt --max {{300}} --i "$(git diff {{path/to/file}})"`
 
-- Ask GPT for a more unique result using a float value between 0 and 2. (higher = more unique):
+- Ask GPT for a more unique result using a float value between 0 and 2 (higher = more unique):
 
 `rgpt --pres {{1.2}} --i "$(git diff {{path/to/file}})"`
 

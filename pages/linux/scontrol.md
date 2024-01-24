@@ -15,7 +15,7 @@
 
 `scontrol resume {{job_id}}`
 
-- Hold a comma-separated list of queued jobs (Use `release` command to permit the jobs to be scheduled):
+- Hold a comma-separated list of queued jobs (use `release` command to permit the jobs to be scheduled):
 
 `scontrol hold {{job_id}}`
 

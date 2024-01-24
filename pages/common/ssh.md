@@ -28,7 +28,7 @@
 
 `ssh -L {{9999}}:{{example.org}}:{{80}} -N -T {{username}}@{{remote_host}}`
 
-- SSH jumping: Connect through a jumphost to a remote server (Multiple jump hops may be specified separated by comma characters):
+- SSH jumping: Connect through a jumphost to a remote server (multiple jump hops may be specified separated by comma characters):
 
 `ssh -J {{username}}@{{jump_host}} {{username}}@{{remote_host}}`
 

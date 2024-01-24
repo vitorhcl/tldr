@@ -15,7 +15,7 @@
 
 `couchdb -b`
 
-- Kill the background process (Note: It will respawn if needed):
+- Kill the background process (note: It will respawn if needed):
 
 `couchdb -k`
 

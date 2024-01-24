@@ -11,7 +11,7 @@
 
 `siege --file {{path/to/url_list.txt}}`
 
-- Test list of URLs in a random order (Simulates internet traffic):
+- Test list of URLs in a random order (simulates internet traffic):
 
 `siege --internet --file {{path/to/url_list.txt}}`
 
