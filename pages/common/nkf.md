@@ -20,7 +20,7 @@
 
 `nkf -d --overwrite {{path/to/file.txt}}`
 
-- Set new line code to CRLF and overwrite (windows type):
+- Set new line code to CRLF and overwrite (Windows type):
 
 `nkf -c --overwrite {{path/to/file.txt}}`
 

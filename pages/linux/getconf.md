@@ -11,7 +11,7 @@
 
 `getconf -a {{path/to/directory}}`
 
-- Check if your linux system is a 32-bit or 64-bit:
+- Check if your Linux system is a 32-bit or 64-bit:
 
 `getconf LONG_BIT`
 
