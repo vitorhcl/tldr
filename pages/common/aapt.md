@@ -1,6 +1,7 @@
 # aapt
 
 > Android Asset Packaging Tool: compile and package an Android app's resources.
+> Note: it is deprecated in favor of AAPT2. 
 > More information: <https://elinux.org/Android_aapt>.
 
 - List files contained in an APK archive:
@@ -11,6 +12,6 @@
 
 `aapt dump badging {{path/to/app.apk}}`
 
-- Create a new APK archive with files from the specified directory:
+- Create a new APK [F]ile with files from the specified directory:
 
 `aapt package -F {{path/to/app.apk}} {{path/to/directory}}`
