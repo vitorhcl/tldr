@@ -1,6 +1,6 @@
 # Style guide
 
-This page lists specific formatting instructions for `tldr` pages.
+This guide lists specific conventions about the wording, syntax, layout, standard fields, and translation of `tldr` pages.
 
 ## Contents
 
@@ -14,7 +14,7 @@ This page lists specific formatting instructions for `tldr` pages.
 
 ## General layout
 
-The basic format of each page should match the following template and have at most 8 command examples:
+The basic layout of each page should match the following template and have at most 8 command examples:
 
 ```md
 # command name
